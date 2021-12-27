@@ -4,7 +4,7 @@
     "description": "Discord RPC",
     "main": "index.js",
     "dependencies": {
-        "discord-rpc": "git+https://github.com/djs/discord-rpc.git",
+        "discord-rpc": "git+https://github.com/oyuh/Profile-Buttons",
         "discord.js": "^12.5.1",
         "node.js": "0.0.1-security"
     },
